@@ -14,7 +14,7 @@ To learn how to host a static website on AWS S3, configure permissions, and trou
 ## 📸 Screenshots
 
 1. **S3 Bucket Creation**
-![Bucket Created](https://github.com/Tzenology/aws-s3-static-site-project/blob/main/screenshots/create-bucket.png?raw=true) 
+![Bucket Created](screenshots/create-bucket.png) 
 
 2. **File Upload** 
 ![Upload Files](./screenshots/file-upload.png) 
